@@ -1,2 +1,3 @@
 # DIONNE
-Molecular Field Coefficient Model of Rare Earth Iron Garnets
+Molecular Field Coefficient Modeling of Temperature-Dependent Ferrimagnetism in a Complex Oxide
+
